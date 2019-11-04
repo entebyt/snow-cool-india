@@ -1,5 +1,5 @@
 <footer class="bg-gray-100">
-  <div class="container mx-auto px-6 pt-10 pb-6">
+  <div class="container mx-auto px-6 pt-10 pb-6 border-b">
     <div class="flex flex-wrap">
       <div class="w-full md:w-2/4 text-center md:text-left">
         <h5 class=" mb-6 font-bold">Snow cool India</h5>
@@ -22,6 +22,12 @@
               ,
               <a href="tel:7042678967">7042678967</a>
               & Tel: 24610861,41010861
+            </addres>
+          </li>
+          <li class="mt-2">
+            <addres class="hover:underline text-xs hover:text-orange-500">
+              email:
+              <a href="mailto:snowcool@yahoo.in">snowcool@yahoo.in</a>
             </addres>
           </li>
         </ul>
@@ -98,5 +104,9 @@
         </ul>
       </div>
     </div>
+  </div>
+  <div class="container mx-auto px-6 py-6 flex justify-between">
+    <span class="text-xs">© 2019,Entebyte</span>
+    <span class="text-xs">Made by Entebyte</span>
   </div>
 </footer>
