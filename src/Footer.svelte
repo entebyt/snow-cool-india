@@ -107,6 +107,6 @@
   </div>
   <div class="container mx-auto px-6 py-6 flex justify-between">
     <span class="text-xs">© 2019,Entebyte</span>
-    <span class="text-xs">Made by Entebyte</span>
+    <span class="text-xs">Made with love by Entebyte</span>
   </div>
 </footer>
